@@ -5,6 +5,7 @@
 
 $gray-medium-light: #eaeaea;
 
+
 @mixin box_sizing {
   -moz-box-sizing:    border-box;
   -webkit-box-sizing: border-box;
@@ -103,6 +104,8 @@ footer {
   }
 }
 
+/* miscellaneous */
+
 .debug_dump {
   clear: both;
   float: left;
@@ -174,6 +177,20 @@ input {
   .form-control {
     color: $state-danger-text;
   }
+}
+
+.checkbox {
+  margin-top: -10px;
+  margin-bottom: 10px;
+  span {
+    margin-left: 20px;
+    font-weight: normal;
+  }
+}
+
+#session_remember_me {
+  width: auto;
+  margin-left: 0;
 }
 
 /* Users index */
