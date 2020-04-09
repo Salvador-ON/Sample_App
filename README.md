@@ -1,41 +1,42 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Twitter clone App
 
-This is the sample application for
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+Following [Ruby on Rails Tutorial](http://railstutorial.org/)
 
-## License
+![](media/followers.png)
+![](media/profile.png)
 
-All source code in the [Ruby on Rails Tutorial](http://railstutorial.org/)
-is available jointly under the MIT License and the Beerware License. See
-[LICENSE.md](LICENSE.md) for details.
+# What it does
 
-## Getting started
+- Users are allowed to sign up and login and log out
+- Every User can make their own Posts
+- The post can include a picture
+- Every user can follow and unfollow the other users
+- Every user has their feed with the post of the people tha he follows
 
-To get started with the app, clone the repo and then install the needed gems:
 
-```
-$ bundle install --without production
-```
+# How to run this project
 
-Next, migrate the database:
+- Install ruby
+- Install ruby on rails
+- Install bundle
+- Run "bundle install" inside folder
+- Run "rails server" inside folder
+- Go to http://127.0.0.1:3000/
 
-```
-$ rails db:migrate
-```
+# Live Version Demo
+[Click Here](https://intense-springs-41438.herokuapp.com/users/sign_in)
 
-Finally, run the test suite to verify that everything is working correctly:
 
-```
-$ rails test
-```
+## Authors
 
-If the test suite passes, you'll be ready to run the app in a local server:
+**Salvador Olvera**
+- Linkedin: [Salvador Olvera](https://www.linkedin.com/in/salvador-olvera-n)
+- Github: [@Salvador-ON](https://github.com/Salvador-ON)
+- Twitter: [@Salvador Olvera_ON](https://twitter.com/Salvador_ON) 
 
-```
-$ rails server
-```
 
-For more information, see the
-[*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Enjoy!open heroku
