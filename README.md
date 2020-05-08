@@ -7,24 +7,25 @@ Following [Ruby on Rails Tutorial](http://railstutorial.org/)
 
 # What it does
 
-- Users are allowed to sign up and login and log out
-- Every User can make their own Posts
-- The post can include a picture
-- Every user can follow and unfollow the other users
-- Every user has their feed with the post of the people tha he follows
+- Users are allowed to sign up and login and log out.
+- Every user can make their own Posts.
+- The post can include a picture.
+- Every user can follow and unfollow other users.
+- Every user has their feed with the post of the people that he follows.
 
 
 # How to run this project
 
-- Install ruby
-- Install ruby on rails
-- Install bundle
-- Run "bundle install" inside folder
-- Run "rails server" inside folder
+- Install ruby.
+- Install ruby on rails.
+- Install bundle.
+- Run "bundle install" inside folder.
+- Run "rails server" inside folder.
 - Go to http://127.0.0.1:3000/
 
 # Live Version Demo
-[Click Here](https://intense-springs-41438.herokuapp.com/users/sign_in)
+[Click Here](https://desolate-everglades-93350.herokuapp.com)
+Access User:example@railstutorial.org  Password:foobar
 
 
 ## Authors
@@ -37,6 +38,4 @@ Following [Ruby on Rails Tutorial](http://railstutorial.org/)
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
-
-## Enjoy!open heroku
+Give a ⭐️ if you like this project!.
